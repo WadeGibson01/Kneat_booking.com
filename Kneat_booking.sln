@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kneat_booking", "Kneat_booking\Kneat_booking.csproj", "{1B5C9D2A-8774-4F0D-A615-57366F34FF75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FBFC950C-27E1-4F1B-9D86-565D1FB6DDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5C9D2A-8774-4F0D-A615-57366F34FF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5C9D2A-8774-4F0D-A615-57366F34FF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5C9D2A-8774-4F0D-A615-57366F34FF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5C9D2A-8774-4F0D-A615-57366F34FF75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0BA00A3-1553-4178-82A3-1A17CE86F412}
+	EndGlobalSection
+EndGlobal
